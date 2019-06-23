@@ -1,0 +1,8 @@
+<dataStorage>
+  <flockingRules>
+    <flockingRule name="Alignment" minDist="0" maxDist="24" scalar="6" type="flockingRule" />
+    <flockingRule name="Cohesion" minDist="19" maxDist="82" scalar="2" type="flockingRule" />
+    <flockingRule name="Separation" minDist="0" maxDist="65" scalar="3" type="flockingRule" />
+  </flockingRules>
+  <speed value="100" />
+</dataStorage>

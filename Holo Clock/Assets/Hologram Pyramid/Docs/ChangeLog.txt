@@ -1,0 +1,12 @@
+v1.1
+- Changed Script "AutoRotate" postion from current object to manager.
+- Added "Placeholder" smooth-hiding once scene starts...
+- Removed Main Lighing from scene
+- Added 4 Directional Lighing in each camera with 4/1 (25% each) of intensity for best possible lighing.
+- Changed Canvas component scales, now most scales are supported.
+
+v1.2
+- Changed example model
+- Added more seperated scripts
+- Changed placeholder
+- Added Tap button.

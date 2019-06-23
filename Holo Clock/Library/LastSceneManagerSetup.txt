@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Clock Models.unity
+  isLoaded: 1
+  isActive: 1
