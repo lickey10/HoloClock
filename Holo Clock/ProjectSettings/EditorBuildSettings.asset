@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
     path: Assets/Scenes/Clock Rabbit.unity
     guid: 18d8f7967594b5d4d8f3ed30a04a1e45
+  - enabled: 1
+    path: Assets/Scenes/Clock 2D.unity
+    guid: 1759d5a163c267e46bb2e2811901efe3
   m_configObjects: {}

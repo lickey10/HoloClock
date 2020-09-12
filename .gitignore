@@ -50,6 +50,7 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -62,3 +63,7 @@ sysinfo.txt
 crashlytics-build.properties
 FlowerPops/Temp/UnityLockfile
 FlowerPops/Temp/__Backupscenes/0.backup
+/Holo Clock/Library/
+/Holo Clock/obj/
+/Holo Clock/Temp/
+/Holo Clock/Logs/

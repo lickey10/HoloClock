@@ -30,20 +30,23 @@ public class ClockController : MonoBehaviour {
     string amPM = "am";
     ColorChange colorChange = new ColorChange();
 
-void Start() 
-{
-    tm = GetComponent<TextMeshPro>();
+    void Start()
+    {
+        tm = GetComponent<TextMeshPro>();
 
-	//-- set real time
-	if (realTime)
-	{
-		hour=System.DateTime.Now.Hour;
-		minutes=System.DateTime.Now.Minute;
-		seconds=System.DateTime.Now.Second;
-	}
+        //-- set real time
+        if (realTime)
+        {
+            hour = System.DateTime.Now.Hour;
+            minutes = System.DateTime.Now.Minute;
+            seconds = System.DateTime.Now.Second;
+        }
+        Screen.sleepTimeout = SleepTimeout.NeverSleep;
 
-    colorChange.StartColorChange(gradient);
+        colorChange.StartColorChange(gradient);
         //tm.colorGradient = new VertexGradient(Color.red, Color.cyan, Color.blue, Color.green);
+
+        //Gamekit3D.ScreenFader.SetAlpha(0.2f);
     }
 
     void Update()
