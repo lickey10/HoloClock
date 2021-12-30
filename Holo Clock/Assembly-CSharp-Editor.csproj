@@ -441,6 +441,21 @@
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/PackageCache/com.unity.purchasing@2.0.6/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
+    <Reference Include="GitHub.Api.45">
+      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub.Unity.45">
+      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+    </Reference>
+    <Reference Include="sfw.net">
+      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub.UnityShim">
+      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub.Logging">
+      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
@@ -819,8 +834,17 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder">
+      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/UnityEngine.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -864,6 +888,9 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
@@ -878,18 +905,6 @@
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
       <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder">
-      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.Editor">
-      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>D:/utilities/Programming/Unity/Repos/HoloClock/Holo Clock/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
